@@ -23,14 +23,6 @@
             margin-bottom: 20px;
         }
 
-        section {
-            background-color: #ffffff;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            padding: 20px;
-            margin: 20px 0;
-        }
-
         a {
             color: #007bff;
             text-decoration: none;
@@ -45,19 +37,32 @@
 <body>
     <h1>Advancements in Orthodontics using AI and ML</h1>
 
-    <section>
-        <p>
-            Our research project focuses on advancing orthodontics through the integration of Artificial Intelligence (AI) and Machine Learning (ML) techniques. Leveraging the power of AI and ML, we aim to revolutionize orthodontic diagnosis, treatment planning, and outcome prediction.
-        </p>
-        <p>
-            By utilizing sophisticated algorithms and predictive models, our project addresses the complexities of orthodontic cases, allowing for more personalized and efficient treatment strategies. The AI and ML algorithms analyze vast datasets, including patient records, medical imaging, and treatment outcomes, to uncover patterns and insights that enhance the decision-making process for orthodontic practitioners.
-        </p>
-        <p>
-            The complexity of our project lies in the integration of AI and ML into the field of orthodontics, requiring a multidisciplinary approach that combines expertise in dentistry, computer science, and data analysis. The development of accurate predictive models and the implementation of these models into the clinical workflow pose challenges that we are actively addressing to bring about meaningful advancements in orthodontic care.
-        </p>
-        <p>
-            To stay updated on our research progress, follow our project on <a href="#">GitHub</a>.
-        </p>
-    </section>
+    <p>
+        Our research project aims to revolutionize orthodontics through the integration of Artificial Intelligence (AI) and Machine Learning (ML) techniques.
+    </p>
+
+    <p>
+        By leveraging sophisticated algorithms and predictive models, we seek to enhance orthodontic diagnosis, treatment planning, and outcome prediction.
+    </p>
+
+    <p>
+        The project's complexity lies in the multidisciplinary approach, combining expertise in dentistry, computer science, and data analysis.
+    </p>
+
+    <p>
+        We analyze extensive datasets, including patient records and medical imaging, to uncover patterns that improve decision-making for orthodontic practitioners.
+    </p>
+
+    <p>
+        The development of accurate predictive models and their implementation into the clinical workflow present challenges that we are actively addressing.
+    </p>
+
+    <p>
+        Our goal is to bring meaningful advancements to orthodontic care by integrating AI and ML technologies.
+    </p>
+
+    <p>
+        To stay updated on our research progress, follow our project on <a href="#">GitHub</a>.
+    </p>
 </body>
 </html>
